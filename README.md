@@ -1,6 +1,6 @@
 # todoList
 
-A simple todo list website build with node, and supported with a custom API
+A simple todo list website built with node, and supported with a custom API
 
 This website is supported by a mongoDB database:
 
